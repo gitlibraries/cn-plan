@@ -18,7 +18,9 @@ echo "export X_VCPKG_ASSET_SOURCES="`curl -L https://raw.githubusercontent.com/c
 ```
 
 ## Hosts example
+
 来源<https://raw.hellogithub.com/hosts>
+
 ```bash
 curl -L https://raw.githubusercontent.com/cloudlibraries/cn-plan/master/hosts >> /etc/hosts
 ```
